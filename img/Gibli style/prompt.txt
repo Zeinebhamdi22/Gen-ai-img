@@ -1,0 +1,16 @@
+Studio Ghibli-Style Environment
+
+🧠 AI Model:
+Chatgpt
+
+
+📝 Prompt:
+"Restyle this IMG to ghible studio style and keep all details."
+
+
+🎨 Style Notes:
+- Inspired by films like My Neighbor Totoro and Spirited Away
+- Soft, painterly textures with a focus on natural elements
+- Warm, earthy color palettes with occasional vibrant highlights
+- Whimsical and serene atmosphere with a touch of nostalgia
+- Detailed and immersive backgrounds that tell a story

@@ -1,0 +1,41 @@
+Hollywood Glamour Portrait , 1950s Cinematic Style
+
+
+🧠 AI Model:
+Chatgpt
+
+
+📝 Prompt:
+{
+  "transformation": "portrait_angle_change",
+  "source_view": "direct_frontal",
+  "target_view": "3/4_angle",
+  "angle_degrees": 45,
+  "style": "1920s_hollywood_glamour",
+  "color_mode": "black_and_white",
+  "contrast": "high",
+  "lighting": {
+    "type": "studio_spot",
+    "effect": "chiaroscuro",
+    "highlights": "strong_on_one_side",
+    "shadows": "deep_on_opposite_side",
+    "reference": "george_hurrell_portraits"
+  },
+  "subject": {
+    "gaze_direction": "slightly_away_from_camera",
+    "preserve": ["distinctive_features", "facial_expression", "identity"]
+  },
+  "technical_details": {
+    "focus": "sharp_on_eyes",
+    "skin_texture": "smooth_luminous",
+    "finish": "silver_gelatin_print_appearance"
+  },
+  "mood": "timeless_elegant_dramatic",
+  "purpose": "showcase_facial_dimension"
+}
+
+
+🎨 Style Notes:
+- Inspired by vintage Hollywood black & white photography
+- Focused on elegance, studio lighting, and drama
+- Tried several variations with lighting and facial expressions
